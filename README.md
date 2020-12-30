@@ -1,5 +1,5 @@
 # Invadopodia_oscillation
-This repository includes the invadopodia data and the Matlab code for invadopodia paper
+This repository includes the invadopodia data and the Matlab code for invadopodia paper, please cite the paper when the data and code are used.
 
     Invadopodia_plasticity&treatments.xlsx ---> The measured invadopodia length with time for different plasticity levels and treatments
     Invadopodia_stiffness.xlsx ---> The measured invadopodia length with time for different stiffness
